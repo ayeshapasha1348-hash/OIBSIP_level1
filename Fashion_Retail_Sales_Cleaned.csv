@@ -1,0 +1,1350 @@
+Date Purchase,Customer Reference ID,Item Purchased,Purchase Amount (USD),Review Rating,Payment Method
+2023-05-02,4018,Handbag,4619.0,3.0,Credit Card
+2023-11-07,4115,Tunic,2456.0,2.0,Credit Card
+2022-11-12,4080,Onesie,2914.0,4.5,Credit Card
+2023-08-07,4055,Jacket,2571.0,1.3,Cash
+2022-10-11,3973,Trousers,2419.0,4.6,Cash
+2023-11-06,4010,Loafers,4233.0,3.0,Credit Card
+2022-09-12,4068,Pajamas,3728.0,3.0,Credit Card
+2023-01-08,4044,Handbag,2122.0,1.2,Credit Card
+2023-10-04,4096,Poncho,2383.0,3.0,Credit Card
+2023-05-04,3986,Gloves,4298.0,4.2,Cash
+2023-11-02,4108,Jeans,2814.0,4.4,Credit Card
+2023-12-04,4075,Tunic,4661.0,1.2,Credit Card
+2023-10-09,3981,Boots,3718.0,2.8,Credit Card
+2023-04-08,4070,Poncho,2902.0,4.9,Cash
+2022-11-10,4110,Hoodie,2653.0,4.2,Credit Card
+2023-02-03,4109,Blouse,3731.0,3.0,Credit Card
+2023-12-05,4040,Kimono,3138.0,3.0,Credit Card
+2023-09-04,4083,Cardigan,2636.0,1.7,Cash
+2023-06-05,3972,Pants,3378.0,3.6,Cash
+2023-03-04,4119,Boots,21.0,3.9,Cash
+2022-04-11,3957,Camisole,147.0,4.7,Cash
+2022-02-11,4056,Sneakers,156.70981818181818,3.0,Credit Card
+2022-03-12,4071,Tunic,107.0,1.5,Cash
+2023-05-04,4007,Dress,172.0,1.9,Cash
+2023-05-06,4102,Cardigan,175.0,3.6,Credit Card
+2023-01-07,4034,Tunic,156.70981818181818,1.5,Credit Card
+2023-05-06,3979,Camisole,79.0,1.3,Cash
+2023-07-09,4106,Trousers,173.0,3.4,Credit Card
+2022-02-11,3959,Trousers,66.0,4.5,Cash
+2023-08-06,4060,Polo Shirt,112.0,1.2,Cash
+2023-08-03,4032,Wallet,155.0,1.1,Credit Card
+2022-10-10,4097,Tank Top,174.0,3.4,Cash
+2023-05-01,3970,Camisole,77.0,2.4,Cash
+2023-02-03,4100,Loafers,147.0,3.9,Credit Card
+2022-08-11,4048,Pajamas,159.0,1.2,Credit Card
+2023-05-03,3985,Flannel Shirt,159.0,2.6,Cash
+2023-10-09,4108,T-Shirt,156.70981818181818,2.5,Credit Card
+2023-02-01,4057,Jacket,156.70981818181818,4.7,Cash
+2023-11-02,4096,Scarf,147.0,4.1,Credit Card
+2023-05-01,4055,Boots,139.0,1.9,Credit Card
+2023-04-03,3996,Belt,60.0,2.3,Credit Card
+2023-03-05,3991,Blazer,145.0,4.5,Credit Card
+2023-09-05,3959,Coat,163.0,3.5,Credit Card
+2023-07-02,3975,Camisole,14.0,3.5,Cash
+2022-10-12,4122,Socks,156.70981818181818,3.0,Credit Card
+2022-07-10,3961,Boots,88.0,1.2,Cash
+2023-01-09,4081,Hat,30.0,1.2,Credit Card
+2023-03-06,4121,Sunglasses,150.0,3.4,Credit Card
+2022-05-11,4063,Bowtie,156.70981818181818,1.3,Credit Card
+2023-09-07,4003,Hoodie,181.0,1.6,Credit Card
+2023-02-06,4087,Vest,125.0,2.6,Credit Card
+2023-03-05,4065,Pajamas,156.70981818181818,2.9,Credit Card
+2022-11-12,4072,Onesie,156.70981818181818,1.2,Cash
+2023-03-04,4055,Bowtie,160.0,4.6,Cash
+2023-07-08,4047,Belt,28.0,3.0,Cash
+2022-05-12,4014,Trench Coat,25.0,4.2,Cash
+2023-10-05,4111,Belt,81.0,1.9,Credit Card
+2023-02-06,4104,Pants,195.0,2.5,Cash
+2023-08-08,4084,Onesie,156.0,1.3,Credit Card
+2023-10-09,4025,Pajamas,156.70981818181818,3.3,Cash
+2023-09-04,3993,Blazer,156.70981818181818,3.4,Cash
+2023-11-02,4028,Cardigan,33.0,4.3,Credit Card
+2022-05-10,4076,Pajamas,70.0,3.2,Credit Card
+2023-07-08,3979,Trousers,156.70981818181818,4.9,Credit Card
+2023-01-06,4077,Romper,188.0,4.6,Credit Card
+2023-12-01,4118,Onesie,152.0,1.1,Credit Card
+2023-04-05,4119,Pants,156.70981818181818,4.7,Cash
+2023-03-08,4036,T-Shirt,156.70981818181818,3.8,Credit Card
+2023-09-05,3970,Camisole,138.0,4.7,Cash
+2023-10-02,4044,Camisole,145.0,2.4,Cash
+2022-06-10,4093,Swimsuit,156.70981818181818,3.2,Cash
+2023-11-03,3959,Kimono,30.0,1.5,Cash
+2023-08-01,4077,Vest,27.0,4.6,Credit Card
+2023-02-09,4088,Vest,113.0,1.2,Credit Card
+2023-01-06,4047,Blazer,154.0,1.7,Cash
+2023-02-08,4031,Slippers,193.0,1.3,Credit Card
+2023-09-02,4023,Sunglasses,154.0,2.4,Credit Card
+2022-10-11,4078,Tunic,99.0,2.3,Cash
+2023-02-02,3970,Tunic,166.0,3.1,Credit Card
+2023-11-02,4116,Raincoat,180.0,3.0,Cash
+2023-02-01,4030,Romper,36.0,2.8,Credit Card
+2023-03-06,4081,Kimono,44.0,2.2,Credit Card
+2022-07-12,4086,Swimsuit,164.0,1.6,Cash
+2023-02-01,4021,Backpack,139.0,4.8,Cash
+2022-01-11,3990,Pajamas,23.0,4.2,Credit Card
+2023-05-06,3985,Dress,156.70981818181818,1.4,Credit Card
+2022-09-11,4108,Romper,156.70981818181818,4.5,Credit Card
+2023-09-04,4071,Jeans,149.0,2.4,Cash
+2023-09-06,4001,Wallet,151.0,3.9,Cash
+2023-08-05,4023,Backpack,156.70981818181818,3.0,Credit Card
+2023-08-08,4017,Pants,156.70981818181818,3.5,Cash
+2022-02-12,4081,Sandals,20.0,4.1,Cash
+2023-10-06,4003,Loafers,63.0,2.3,Credit Card
+2023-06-05,3965,Umbrella,156.70981818181818,4.2,Cash
+2023-01-03,3994,Boots,70.0,3.0,Cash
+2023-07-07,4083,Wallet,156.70981818181818,3.7,Credit Card
+2023-10-04,4062,Coat,115.0,1.6,Credit Card
+2023-11-07,4120,Hoodie,107.0,4.0,Cash
+2023-12-07,4104,Pajamas,68.0,1.8,Cash
+2023-11-04,4121,Slippers,27.0,3.6,Credit Card
+2023-07-05,3970,Socks,147.0,2.2,Credit Card
+2022-06-10,4075,Coat,156.70981818181818,2.4,Cash
+2023-01-01,4034,Tank Top,156.70981818181818,2.1,Cash
+2023-05-01,4078,Blazer,98.0,2.3,Credit Card
+2023-02-01,4016,Polo Shirt,140.0,2.3,Cash
+2023-01-05,4054,Wallet,156.70981818181818,3.8,Cash
+2023-10-07,4078,Slippers,191.0,4.2,Credit Card
+2022-09-10,4024,Blazer,143.0,2.6,Credit Card
+2023-04-01,4068,Tunic,60.0,1.2,Cash
+2023-12-06,4054,Handbag,194.0,2.1,Credit Card
+2022-10-11,4037,Sunglasses,139.0,2.4,Cash
+2022-02-11,4092,Jumpsuit,114.0,2.2,Credit Card
+2023-06-05,3967,Raincoat,188.0,3.3,Cash
+2023-08-07,3981,Pants,42.0,1.8,Credit Card
+2022-07-11,4120,Poncho,107.0,2.3,Cash
+2022-11-10,4113,Vest,10.0,3.0,Credit Card
+2022-12-11,4042,Blazer,158.0,3.2,Cash
+2023-09-01,4025,Coat,123.0,1.8,Cash
+2022-07-10,4075,Jumpsuit,172.0,4.8,Credit Card
+2023-11-01,4090,Tie,47.0,2.9,Cash
+2023-04-01,4003,Cardigan,131.0,4.1,Credit Card
+2023-01-05,4037,Camisole,28.0,2.1,Cash
+2023-03-01,3959,Coat,193.0,1.5,Credit Card
+2023-08-02,3959,Hat,136.0,2.1,Credit Card
+2023-12-04,3960,Hat,11.0,3.0,Credit Card
+2023-11-05,4021,Sunglasses,123.0,1.8,Cash
+2023-02-02,4006,Scarf,194.0,3.6,Cash
+2022-04-10,3963,Socks,150.0,3.0,Credit Card
+2023-05-07,4115,Sweater,50.0,3.2,Cash
+2023-12-02,4120,Tie,29.0,1.9,Credit Card
+2022-02-11,3988,Bowtie,70.0,2.6,Credit Card
+2023-11-08,3990,Handbag,187.0,1.4,Credit Card
+2023-10-07,4053,Coat,156.70981818181818,4.5,Credit Card
+2023-07-08,3985,Pajamas,117.0,1.9,Cash
+2023-07-08,4021,Sneakers,15.0,2.4,Credit Card
+2022-06-12,4076,Trousers,11.0,2.6,Credit Card
+2023-11-06,4027,Onesie,164.0,3.6,Cash
+2023-02-01,4066,Kimono,134.0,3.8,Credit Card
+2023-05-07,4039,Umbrella,121.0,4.4,Cash
+2022-01-12,4027,Sweater,156.70981818181818,4.0,Credit Card
+2023-03-03,4023,Dress,44.0,2.2,Cash
+2023-09-05,4002,Scarf,156.70981818181818,3.7,Credit Card
+2022-01-11,4069,Flannel Shirt,64.0,3.5,Cash
+2022-05-12,3974,T-Shirt,96.0,3.6,Credit Card
+2023-10-05,4082,Pajamas,107.0,3.1,Cash
+2023-04-05,4008,Loafers,117.0,3.5,Credit Card
+2023-12-07,4095,Loafers,15.0,3.0,Credit Card
+2023-06-03,4012,Trousers,156.70981818181818,3.8,Cash
+2023-02-04,4114,Swimsuit,154.0,2.3,Credit Card
+2023-09-06,4070,Leggings,156.70981818181818,3.2,Credit Card
+2023-11-04,3975,Pajamas,156.70981818181818,2.6,Cash
+2022-02-10,4071,Raincoat,193.0,3.9,Credit Card
+2023-08-07,4084,Skirt,170.0,4.2,Cash
+2023-12-05,3995,T-Shirt,188.0,4.1,Cash
+2023-05-03,4120,Overalls,185.0,4.1,Credit Card
+2022-03-10,3957,Tank Top,40.0,2.1,Cash
+2023-04-05,3966,Vest,154.0,4.5,Cash
+2023-12-06,4056,Camisole,98.0,2.9,Credit Card
+2023-06-04,4025,Blouse,179.0,4.1,Cash
+2023-01-05,3995,Jeans,139.0,1.4,Cash
+2023-08-07,3957,Sneakers,172.0,3.0,Credit Card
+2022-07-10,4088,Tank Top,127.0,2.8,Credit Card
+2023-07-09,4082,Tunic,121.0,2.3,Cash
+2023-02-08,3974,Flip-Flops,129.0,3.1,Credit Card
+2023-05-01,3957,Onesie,32.0,4.3,Cash
+2022-10-11,4055,Trench Coat,125.0,4.4,Cash
+2023-10-04,4080,Tie,128.0,3.0,Credit Card
+2023-04-03,3988,Wallet,181.0,3.7,Credit Card
+2023-11-02,4034,Jeans,162.0,3.2,Credit Card
+2023-06-07,4059,Handbag,80.0,4.8,Cash
+2023-08-01,3977,Loafers,113.0,3.0,Credit Card
+2023-05-02,4074,Kimono,88.0,2.9,Cash
+2022-05-10,4008,Flip-Flops,200.0,4.9,Cash
+2023-04-02,4098,Raincoat,79.0,5.0,Credit Card
+2023-03-04,3967,Belt,69.0,3.0,Cash
+2022-05-11,4055,Onesie,156.70981818181818,4.5,Cash
+2023-11-04,4056,Skirt,186.0,3.0,Cash
+2022-01-11,4081,Loafers,144.0,1.2,Credit Card
+2023-12-07,3973,Umbrella,57.0,3.0,Cash
+2023-09-01,4072,Onesie,23.0,2.4,Cash
+2023-04-02,3961,Wallet,156.70981818181818,3.3,Credit Card
+2023-08-01,3966,Polo Shirt,87.0,3.3,Cash
+2023-01-03,3971,Boots,152.0,3.0,Credit Card
+2023-05-02,4043,Scarf,165.0,1.7,Credit Card
+2023-01-08,3987,Wallet,123.0,2.5,Credit Card
+2023-08-05,4011,Tank Top,160.0,3.0,Cash
+2022-08-12,4090,Hoodie,88.0,2.0,Cash
+2022-05-10,4074,Skirt,25.0,3.6,Credit Card
+2023-04-07,4094,Belt,199.0,1.8,Credit Card
+2023-04-07,3975,Leggings,156.70981818181818,2.3,Credit Card
+2022-03-12,4082,Sneakers,156.70981818181818,3.8,Credit Card
+2022-05-12,3961,Gloves,162.0,3.0,Credit Card
+2023-04-08,3969,Polo Shirt,48.0,3.8,Cash
+2023-11-03,3981,Camisole,156.70981818181818,1.4,Credit Card
+2023-11-08,4073,Kimono,156.70981818181818,2.0,Credit Card
+2023-05-08,4113,Hoodie,155.0,1.1,Credit Card
+2023-12-08,4000,Tank Top,122.0,3.6,Cash
+2022-09-12,4108,Trousers,156.70981818181818,1.6,Cash
+2022-01-12,3984,Sunglasses,79.0,3.4,Cash
+2023-03-02,4084,Loafers,163.0,3.5,Credit Card
+2023-11-01,4013,Trousers,16.0,1.4,Credit Card
+2022-09-11,3973,Pajamas,156.70981818181818,2.2,Credit Card
+2023-05-06,4008,Romper,157.0,1.7,Credit Card
+2023-09-03,4043,Poncho,182.0,2.8,Cash
+2023-10-04,4040,Pajamas,156.70981818181818,4.3,Credit Card
+2022-04-11,4096,Sun Hat,56.0,4.9,Cash
+2022-09-10,3992,Belt,121.0,4.1,Credit Card
+2023-03-01,4011,Gloves,130.0,4.1,Cash
+2023-02-08,3968,Sandals,95.0,2.6,Credit Card
+2022-08-12,4098,Shorts,148.0,4.5,Credit Card
+2023-02-01,3999,Sunglasses,23.0,1.3,Cash
+2022-09-11,4105,Leggings,23.0,3.7,Credit Card
+2023-05-06,4118,T-Shirt,17.0,4.7,Cash
+2023-10-04,4113,Blazer,165.0,4.3,Cash
+2022-06-12,3961,Polo Shirt,151.0,4.1,Credit Card
+2023-06-05,4081,Socks,67.0,4.1,Credit Card
+2023-01-06,3958,Belt,40.0,2.7,Cash
+2023-08-09,3979,Swimsuit,190.0,1.9,Cash
+2023-07-02,4078,Wallet,163.0,4.7,Credit Card
+2023-07-05,4072,Polo Shirt,158.0,2.7,Credit Card
+2022-02-12,4062,Overalls,135.0,3.7,Cash
+2022-04-10,3966,Gloves,92.0,4.2,Credit Card
+2023-01-08,4003,Umbrella,108.0,3.3,Cash
+2023-04-09,4113,Pants,156.70981818181818,4.8,Cash
+2023-01-07,3979,Loafers,190.0,4.1,Cash
+2023-12-03,4034,Pants,179.0,3.4,Cash
+2022-11-12,4046,Poncho,176.0,2.8,Cash
+2022-02-11,3958,Tank Top,42.0,3.1,Credit Card
+2023-07-01,4099,Dress,161.0,4.1,Cash
+2022-03-11,4092,Trench Coat,13.0,3.4,Credit Card
+2023-01-04,3981,Tank Top,114.0,4.3,Cash
+2023-01-04,4086,Sunglasses,187.0,2.5,Cash
+2022-07-10,4013,Onesie,30.0,3.7,Cash
+2022-12-12,3970,Romper,19.0,3.5,Cash
+2023-04-03,4084,Romper,190.0,3.0,Cash
+2023-08-09,3997,Camisole,156.70981818181818,2.1,Credit Card
+2023-07-06,4050,Sweater,120.0,2.8,Cash
+2022-12-12,4021,Camisole,156.70981818181818,2.5,Cash
+2023-12-02,4042,Vest,156.70981818181818,1.3,Cash
+2023-07-08,4073,Wallet,137.0,1.1,Cash
+2022-05-12,3968,Coat,46.0,2.0,Credit Card
+2023-11-04,3983,Jeans,173.0,4.5,Cash
+2023-07-02,4094,Vest,129.0,1.8,Credit Card
+2022-08-12,4002,Trousers,183.0,2.2,Credit Card
+2023-08-07,4088,Raincoat,118.0,2.7,Credit Card
+2023-09-02,4017,Vest,133.0,4.6,Cash
+2023-12-09,4108,Flannel Shirt,101.0,1.1,Cash
+2023-05-07,4064,Cardigan,12.0,2.3,Credit Card
+2023-02-01,4015,Tank Top,200.0,3.8,Cash
+2022-05-10,3985,Sun Hat,83.0,3.4,Cash
+2023-05-03,4040,Vest,68.0,2.3,Credit Card
+2023-06-07,4015,Skirt,100.0,4.7,Credit Card
+2023-06-06,3982,Blouse,58.0,3.0,Credit Card
+2023-11-06,4017,Leggings,183.0,2.4,Credit Card
+2023-10-05,4008,Slippers,45.0,1.8,Credit Card
+2023-11-06,4053,Sweater,170.0,3.7,Cash
+2023-11-01,4106,Backpack,156.70981818181818,1.8,Credit Card
+2023-10-05,4073,Cardigan,133.0,3.2,Credit Card
+2023-01-04,4002,Pants,85.0,1.9,Cash
+2023-03-04,4052,Scarf,129.0,4.4,Credit Card
+2023-06-07,4026,Swimsuit,111.0,4.0,Cash
+2023-07-09,4008,Camisole,156.70981818181818,3.4,Cash
+2023-11-05,3989,Skirt,182.0,4.5,Credit Card
+2023-03-04,4076,Sweater,26.0,3.1,Cash
+2023-08-01,4000,Onesie,39.0,3.6,Credit Card
+2023-06-07,4044,Hat,156.70981818181818,2.6,Cash
+2023-03-06,4113,Slippers,200.0,2.9,Credit Card
+2022-10-12,4000,Belt,148.0,3.0,Cash
+2022-11-10,4015,Camisole,135.0,4.5,Credit Card
+2023-05-06,4082,Shorts,70.0,2.3,Credit Card
+2022-05-12,4012,Boots,35.0,4.6,Credit Card
+2023-04-09,4108,Vest,104.0,2.8,Cash
+2023-05-04,4028,Tank Top,41.0,3.0,Credit Card
+2023-07-03,3960,Loafers,126.0,3.4,Credit Card
+2023-11-04,4040,Pajamas,156.70981818181818,3.0,Credit Card
+2022-12-11,4068,Jumpsuit,42.0,4.5,Cash
+2023-03-01,4063,Backpack,156.70981818181818,3.9,Credit Card
+2022-06-10,3967,Sneakers,148.0,4.1,Credit Card
+2023-02-07,4086,Backpack,156.70981818181818,3.6,Cash
+2023-03-01,3965,Bowtie,43.0,1.5,Credit Card
+2023-06-09,4092,T-Shirt,70.0,4.0,Credit Card
+2023-04-03,4072,Shorts,144.0,1.4,Credit Card
+2023-11-07,3978,Wallet,102.0,2.0,Credit Card
+2023-06-01,3960,Gloves,66.0,3.8,Cash
+2023-07-02,4012,Slippers,178.0,1.6,Cash
+2023-02-01,3990,Sunglasses,127.0,1.9,Cash
+2022-08-10,4032,Onesie,156.70981818181818,4.8,Credit Card
+2023-04-02,3961,Skirt,156.70981818181818,1.6,Credit Card
+2023-02-08,3963,Belt,126.0,1.7,Credit Card
+2022-07-10,4073,Blazer,120.0,1.6,Cash
+2022-08-10,4075,Sunglasses,156.70981818181818,2.3,Credit Card
+2023-08-08,3992,Blouse,177.0,4.5,Cash
+2023-02-09,4004,Leggings,65.0,1.7,Cash
+2023-03-05,4051,Jacket,68.0,1.1,Credit Card
+2022-09-12,3975,Jeans,131.0,4.6,Credit Card
+2022-02-10,4092,Polo Shirt,200.0,1.8,Credit Card
+2023-04-04,4113,Slippers,180.0,4.5,Credit Card
+2023-10-05,4095,Polo Shirt,118.0,1.2,Credit Card
+2023-09-01,4104,Romper,194.0,2.0,Cash
+2023-04-01,4010,Backpack,156.70981818181818,4.0,Credit Card
+2022-05-11,3977,Shorts,89.0,3.6,Cash
+2023-03-06,4115,Tunic,157.0,3.8,Cash
+2022-11-10,4050,Shorts,104.0,4.3,Credit Card
+2023-12-08,3985,Loafers,67.0,3.1,Credit Card
+2022-09-11,4055,Tank Top,153.0,3.0,Cash
+2023-04-02,4050,Leggings,56.0,1.5,Credit Card
+2023-09-04,4050,Shorts,89.0,3.0,Credit Card
+2023-12-01,4001,Dress,99.0,3.2,Credit Card
+2023-04-07,4122,Blouse,156.70981818181818,2.9,Credit Card
+2022-09-12,4100,Backpack,156.70981818181818,4.1,Credit Card
+2023-03-03,3992,Hoodie,156.70981818181818,2.8,Credit Card
+2023-01-08,3986,Dress,93.0,3.1,Cash
+2022-04-10,4010,Trench Coat,156.70981818181818,3.2,Credit Card
+2023-04-05,4047,Polo Shirt,118.0,2.3,Credit Card
+2022-12-10,4025,Coat,123.0,2.9,Credit Card
+2023-07-06,3970,Boots,183.0,3.2,Credit Card
+2023-04-09,3973,Blazer,144.0,4.1,Cash
+2023-04-05,4077,Sunglasses,54.0,1.6,Cash
+2023-01-06,4093,Tank Top,68.0,4.2,Cash
+2022-07-12,4072,Flannel Shirt,28.0,2.9,Cash
+2023-01-04,3979,Tank Top,173.0,2.6,Credit Card
+2022-07-10,3977,Skirt,39.0,2.4,Credit Card
+2022-09-10,4057,Wallet,93.0,4.9,Cash
+2023-12-01,4027,Blazer,112.0,1.8,Credit Card
+2023-06-05,3994,Blouse,200.0,1.4,Credit Card
+2023-07-05,4009,Scarf,39.0,4.9,Credit Card
+2023-04-09,4090,Slippers,59.0,3.0,Cash
+2023-11-09,4032,Blouse,70.0,3.4,Cash
+2023-11-01,3990,Belt,177.0,4.7,Credit Card
+2022-08-10,4064,Sandals,154.0,2.7,Cash
+2023-11-02,3962,Backpack,169.0,3.0,Credit Card
+2023-01-10,4005,Vest,122.0,2.0,Cash
+2023-12-05,3962,Hoodie,87.0,3.0,Cash
+2023-04-03,4016,Sandals,161.0,1.3,Cash
+2022-11-12,4090,Umbrella,156.70981818181818,3.8,Cash
+2023-12-01,4122,Belt,89.0,4.4,Credit Card
+2023-10-01,4081,Camisole,199.0,2.6,Cash
+2023-01-01,4092,Handbag,156.0,3.0,Credit Card
+2023-04-09,4074,Socks,156.70981818181818,1.1,Cash
+2023-05-04,3990,Sunglasses,97.0,3.5,Cash
+2023-03-06,4035,Wallet,31.0,3.3,Cash
+2023-05-05,4000,Backpack,54.0,4.1,Cash
+2023-06-05,4015,Loafers,122.0,1.4,Cash
+2023-07-02,4030,Pants,82.0,2.7,Cash
+2023-07-08,3969,Leggings,96.0,2.8,Cash
+2023-02-01,4047,Pajamas,175.0,1.3,Cash
+2023-09-05,4115,Jacket,178.0,3.0,Credit Card
+2022-06-11,3998,Sneakers,164.0,1.0,Credit Card
+2023-01-06,4094,Shorts,95.0,1.1,Credit Card
+2023-10-07,3998,Tie,156.70981818181818,3.3,Credit Card
+2022-12-10,3986,Trousers,106.0,1.6,Credit Card
+2023-12-06,4038,Hoodie,181.0,1.1,Credit Card
+2023-06-01,4023,Sneakers,140.0,1.9,Cash
+2023-04-03,4004,Gloves,64.0,2.1,Credit Card
+2023-03-01,4100,T-Shirt,156.70981818181818,1.5,Credit Card
+2023-08-03,4095,Hat,168.0,1.4,Credit Card
+2022-10-11,4034,Blazer,156.70981818181818,1.5,Credit Card
+2023-09-05,4074,Tank Top,124.0,1.0,Cash
+2023-10-01,3996,Cardigan,130.0,2.4,Cash
+2023-09-02,4041,Skirt,107.0,3.0,Credit Card
+2022-07-10,4078,Leggings,45.0,3.6,Credit Card
+2023-03-04,4103,Pajamas,105.0,3.3,Credit Card
+2023-01-03,3994,Hat,36.0,1.6,Credit Card
+2023-03-07,4101,Raincoat,142.0,4.0,Credit Card
+2023-09-04,4070,Poncho,82.0,3.0,Cash
+2022-11-12,4079,Sun Hat,141.0,1.6,Credit Card
+2023-04-05,3967,Loafers,156.70981818181818,4.7,Cash
+2023-11-01,4013,Trench Coat,35.0,4.6,Cash
+2023-12-05,4048,Pants,47.0,4.7,Cash
+2022-03-11,3971,Pants,45.0,1.6,Cash
+2023-01-09,4112,Pajamas,130.0,3.0,Credit Card
+2022-08-10,4121,Sunglasses,11.0,1.4,Cash
+2022-03-10,4006,Poncho,14.0,1.4,Cash
+2023-02-08,4106,Sneakers,48.0,4.9,Cash
+2023-11-03,3978,Jumpsuit,173.0,3.5,Cash
+2023-05-06,4094,Boots,127.0,2.9,Credit Card
+2023-06-08,4111,Overalls,31.0,4.9,Credit Card
+2022-10-10,4087,Trench Coat,102.0,3.1,Cash
+2023-03-06,3994,Flannel Shirt,109.0,4.7,Credit Card
+2023-02-07,4066,Romper,21.0,3.0,Cash
+2022-10-11,4051,Gloves,105.0,2.5,Credit Card
+2023-11-09,4052,Handbag,27.0,1.7,Cash
+2023-08-05,3960,Hoodie,197.0,1.1,Cash
+2023-07-03,4045,Tie,198.0,3.3,Cash
+2023-09-06,4046,Jumpsuit,44.0,2.4,Cash
+2023-01-03,4012,Jacket,132.0,4.1,Cash
+2023-12-04,3979,Kimono,22.0,4.5,Credit Card
+2023-06-07,4010,Belt,104.0,1.3,Credit Card
+2023-02-05,4042,Blouse,137.0,1.9,Credit Card
+2023-10-02,3973,Onesie,142.0,3.0,Cash
+2023-02-05,4108,Kimono,31.0,2.4,Cash
+2022-08-12,3979,Umbrella,56.0,3.1,Credit Card
+2023-12-07,4063,Vest,52.0,3.5,Cash
+2022-05-11,4001,T-Shirt,99.0,4.0,Credit Card
+2023-08-04,4099,Flip-Flops,196.0,4.8,Credit Card
+2023-04-09,4075,Socks,100.0,4.4,Credit Card
+2023-03-03,4102,Poncho,121.0,4.8,Credit Card
+2023-10-04,4054,Tank Top,183.0,4.8,Credit Card
+2023-09-08,4098,Poncho,156.70981818181818,3.2,Credit Card
+2022-01-11,4034,Poncho,156.70981818181818,3.0,Cash
+2023-02-06,4083,Umbrella,18.0,4.8,Cash
+2022-07-10,3957,Coat,90.0,2.1,Credit Card
+2023-08-03,4024,Tunic,16.0,4.8,Cash
+2022-12-10,4002,Raincoat,125.0,2.8,Credit Card
+2023-06-04,4019,Kimono,91.0,2.1,Cash
+2023-09-05,3987,Coat,156.70981818181818,1.5,Credit Card
+2023-05-02,4105,Polo Shirt,45.0,2.5,Cash
+2023-07-05,4068,Cardigan,104.0,3.6,Credit Card
+2023-01-08,4023,Blazer,151.0,2.1,Credit Card
+2023-04-02,4078,Cardigan,26.0,3.0,Credit Card
+2023-06-06,4104,Poncho,28.0,3.0,Credit Card
+2023-07-09,3998,Vest,184.0,3.2,Cash
+2022-02-12,3991,Overalls,142.0,4.1,Credit Card
+2023-09-07,4048,Flip-Flops,156.70981818181818,3.7,Credit Card
+2022-10-12,3998,Kimono,156.70981818181818,2.7,Credit Card
+2023-03-01,3970,Sweater,191.0,4.0,Cash
+2023-03-01,4026,Raincoat,142.0,4.2,Credit Card
+2023-05-05,4049,T-Shirt,30.0,3.3,Credit Card
+2023-02-06,4119,Overalls,80.0,3.5,Cash
+2022-12-11,4031,Skirt,161.0,1.4,Credit Card
+2023-12-08,4092,T-Shirt,49.0,4.2,Credit Card
+2022-10-10,4120,Raincoat,156.70981818181818,4.4,Cash
+2023-10-05,3981,Skirt,157.0,4.2,Cash
+2023-04-08,4034,Trench Coat,133.0,4.0,Credit Card
+2023-02-05,4047,Pants,97.0,3.8,Cash
+2023-06-03,3960,Wallet,91.0,4.0,Credit Card
+2023-05-06,3998,Belt,156.70981818181818,4.5,Credit Card
+2023-12-03,3996,Sneakers,157.0,4.7,Credit Card
+2023-10-09,4100,Bowtie,88.0,3.0,Credit Card
+2023-05-03,4091,Blouse,139.0,3.0,Credit Card
+2022-11-12,4098,Poncho,100.0,3.0,Cash
+2022-12-12,3986,Belt,156.70981818181818,4.9,Cash
+2022-01-12,4063,T-Shirt,162.0,1.9,Credit Card
+2022-01-11,3986,Socks,37.0,1.1,Credit Card
+2023-06-05,4046,Dress,156.70981818181818,3.3,Credit Card
+2022-10-11,4049,Vest,28.0,4.0,Credit Card
+2023-08-07,3992,Tie,125.0,4.9,Cash
+2023-05-01,3987,Wallet,60.0,4.1,Cash
+2022-02-11,4013,Sneakers,112.0,2.9,Credit Card
+2022-06-11,3989,Shorts,21.0,4.2,Credit Card
+2022-09-10,4010,Umbrella,156.70981818181818,3.0,Credit Card
+2023-01-06,3990,Romper,91.0,3.0,Cash
+2023-08-01,3977,Blouse,156.70981818181818,4.8,Credit Card
+2022-12-11,4067,Trench Coat,104.0,3.3,Credit Card
+2023-11-09,3967,Camisole,38.0,3.9,Credit Card
+2023-03-07,3984,Pajamas,195.0,4.8,Cash
+2023-10-06,4088,Shorts,156.70981818181818,3.2,Cash
+2022-02-12,4108,Skirt,177.0,2.3,Cash
+2023-04-05,3987,Pants,156.70981818181818,3.7,Cash
+2022-05-10,4111,Umbrella,156.70981818181818,1.7,Credit Card
+2023-02-07,4009,Trousers,48.0,3.0,Credit Card
+2023-06-05,4107,Belt,62.0,1.4,Credit Card
+2023-08-03,4008,Loafers,166.0,3.3,Credit Card
+2023-10-08,4004,Poncho,198.0,2.5,Cash
+2023-03-07,4113,Flip-Flops,133.0,4.9,Credit Card
+2023-07-09,4086,Camisole,152.0,1.7,Credit Card
+2023-12-09,3982,Boots,190.0,1.1,Cash
+2023-05-03,4092,Shorts,41.0,3.5,Credit Card
+2023-05-08,4029,Boots,47.0,3.4,Credit Card
+2022-11-10,4094,Belt,30.0,4.5,Cash
+2023-03-04,4011,Romper,147.0,3.0,Credit Card
+2023-10-08,4078,Tank Top,45.0,4.2,Credit Card
+2023-04-05,4050,Camisole,156.70981818181818,2.2,Cash
+2023-04-08,3984,Socks,23.0,4.7,Credit Card
+2023-01-01,4003,Slippers,156.70981818181818,4.7,Cash
+2022-03-11,4047,Handbag,130.0,2.6,Credit Card
+2023-04-07,4011,Gloves,50.0,2.0,Credit Card
+2023-07-01,4015,Blouse,61.0,2.4,Credit Card
+2022-03-10,4061,Vest,83.0,4.7,Cash
+2023-08-04,3985,Dress,175.0,4.6,Credit Card
+2023-11-02,4037,Sneakers,156.70981818181818,4.4,Cash
+2023-08-08,3988,Socks,176.0,3.0,Cash
+2023-04-09,4099,Pajamas,84.0,1.3,Cash
+2023-04-02,3967,Tie,12.0,3.0,Credit Card
+2022-09-11,4029,Gloves,44.0,2.2,Credit Card
+2023-04-07,4110,Belt,38.0,3.6,Credit Card
+2023-02-05,4070,Sweater,75.0,3.0,Cash
+2022-04-10,4061,Backpack,59.0,4.5,Cash
+2023-12-04,4005,Shorts,141.0,4.6,Cash
+2023-06-09,4051,Sneakers,132.0,1.3,Cash
+2023-08-02,4059,Poncho,186.0,4.5,Cash
+2023-03-09,3983,Scarf,85.0,3.5,Cash
+2023-01-09,3973,Onesie,44.0,2.1,Credit Card
+2022-02-10,4008,Belt,130.0,3.4,Credit Card
+2023-12-01,4109,Hat,180.0,2.6,Credit Card
+2023-02-06,4065,Trousers,145.0,3.0,Credit Card
+2023-04-08,4028,Shorts,38.0,2.0,Cash
+2023-01-05,4108,Wallet,139.0,3.1,Cash
+2023-03-03,4121,Umbrella,156.70981818181818,1.5,Cash
+2023-05-07,4028,Poncho,156.70981818181818,3.5,Cash
+2022-04-11,3988,Loafers,158.0,1.8,Credit Card
+2023-05-08,3964,Pajamas,44.0,3.0,Cash
+2023-02-05,3982,Hoodie,196.0,1.8,Cash
+2023-10-07,3970,Skirt,117.0,2.8,Credit Card
+2023-02-03,3963,Poncho,184.0,1.6,Credit Card
+2023-04-03,4002,Loafers,148.0,1.2,Credit Card
+2023-05-09,3996,Backpack,145.0,1.6,Cash
+2022-11-10,4034,Socks,156.70981818181818,1.9,Credit Card
+2023-04-09,4090,Jacket,68.0,3.0,Credit Card
+2023-04-01,4032,Blazer,38.0,4.0,Credit Card
+2022-09-11,4095,Pants,190.0,5.0,Cash
+2023-04-05,4096,Dress,72.0,2.5,Cash
+2023-05-07,3961,Blouse,112.0,3.0,Cash
+2022-03-10,3965,Socks,148.0,1.6,Cash
+2023-06-05,4067,Tie,24.0,3.8,Cash
+2023-01-08,3987,Sun Hat,156.70981818181818,1.9,Credit Card
+2023-05-08,4037,Tunic,157.0,2.7,Credit Card
+2022-08-12,4099,Shorts,198.0,3.5,Cash
+2022-09-10,4034,Belt,170.0,3.2,Cash
+2022-09-12,3991,Flannel Shirt,144.0,2.2,Cash
+2022-10-10,4036,Trench Coat,116.0,4.1,Credit Card
+2023-01-02,4056,Jeans,86.0,1.2,Cash
+2022-02-12,3985,Loafers,67.0,2.5,Cash
+2023-05-05,4103,Dress,44.0,1.6,Cash
+2023-09-01,4077,Sunglasses,75.0,4.1,Credit Card
+2023-11-09,4078,Sweater,175.0,2.6,Credit Card
+2023-02-08,4024,Umbrella,164.0,1.3,Cash
+2023-04-01,4114,Coat,65.0,1.8,Cash
+2023-08-02,4029,Tunic,13.0,2.5,Credit Card
+2023-07-06,4108,Jumpsuit,188.0,3.2,Credit Card
+2022-05-10,3968,Pajamas,62.0,1.6,Cash
+2022-12-11,3989,Vest,71.0,3.1,Credit Card
+2023-01-01,4050,Loafers,82.0,1.6,Cash
+2022-07-10,4046,Sneakers,146.0,2.9,Credit Card
+2023-02-03,4106,Scarf,88.0,3.8,Cash
+2023-05-09,3963,Hat,141.0,4.9,Credit Card
+2023-03-09,4117,T-Shirt,129.0,1.6,Credit Card
+2023-03-03,4054,Sunglasses,130.0,2.5,Cash
+2023-03-09,4066,Slippers,104.0,3.0,Credit Card
+2023-11-04,4045,Tank Top,21.0,4.3,Cash
+2023-03-08,4046,Overalls,159.0,4.8,Credit Card
+2022-11-10,3971,Trench Coat,116.0,4.5,Credit Card
+2023-06-04,4108,Gloves,135.0,4.8,Credit Card
+2023-06-02,3978,Cardigan,174.0,3.8,Credit Card
+2022-06-10,3973,Romper,127.0,1.3,Cash
+2023-03-01,4035,Sneakers,156.70981818181818,4.2,Cash
+2023-11-07,3986,Sun Hat,53.0,3.0,Cash
+2022-01-11,3966,Boots,181.0,3.0,Credit Card
+2023-06-02,4074,Cardigan,156.70981818181818,2.2,Cash
+2023-10-08,4065,Dress,156.70981818181818,2.7,Cash
+2023-12-04,4102,Handbag,156.70981818181818,3.0,Cash
+2022-02-10,4025,Blouse,126.0,1.5,Cash
+2022-08-12,3962,Sneakers,168.0,3.5,Cash
+2023-01-03,4077,Sweater,167.0,1.1,Credit Card
+2023-03-02,4107,Backpack,178.0,4.6,Cash
+2023-12-04,3962,Boots,11.0,1.1,Credit Card
+2022-09-12,4053,Polo Shirt,156.70981818181818,4.2,Credit Card
+2023-08-03,4056,T-Shirt,83.0,2.4,Cash
+2023-01-04,3982,Handbag,55.0,4.7,Cash
+2023-07-05,4009,Leggings,156.70981818181818,1.5,Cash
+2023-09-02,4043,Hoodie,156.70981818181818,4.2,Cash
+2022-11-11,4085,Sun Hat,111.0,1.6,Credit Card
+2023-01-07,3999,Camisole,127.0,1.0,Credit Card
+2023-08-04,4033,Tie,185.0,4.5,Cash
+2022-10-10,4008,Leggings,33.0,4.5,Cash
+2023-03-02,4084,Sweater,106.0,1.4,Credit Card
+2023-08-07,4030,Camisole,94.0,1.0,Credit Card
+2022-01-12,3969,Hat,20.0,3.0,Cash
+2023-06-02,4116,Jumpsuit,154.0,2.2,Cash
+2023-09-04,4105,Slippers,90.0,3.0,Cash
+2023-01-10,4108,Camisole,46.0,1.8,Cash
+2023-11-01,4102,Backpack,109.0,2.3,Cash
+2022-06-12,4092,Sandals,148.0,1.6,Cash
+2023-09-05,4066,Handbag,156.70981818181818,3.0,Cash
+2023-07-08,4086,Gloves,29.0,1.3,Credit Card
+2022-08-11,4063,Tunic,101.0,3.0,Cash
+2022-07-12,4059,Vest,106.0,1.4,Credit Card
+2023-10-04,4021,Pants,184.0,4.7,Credit Card
+2023-09-03,4088,Gloves,156.70981818181818,1.3,Credit Card
+2023-07-06,4097,Camisole,31.0,4.0,Credit Card
+2023-08-09,4003,Belt,107.0,3.0,Cash
+2022-10-12,4117,Pants,156.70981818181818,1.8,Credit Card
+2023-10-02,4004,Hoodie,156.70981818181818,2.9,Credit Card
+2023-05-01,4104,Kimono,156.70981818181818,4.7,Cash
+2023-07-08,4084,Hat,102.0,4.9,Cash
+2023-04-01,4025,Hat,156.70981818181818,2.7,Cash
+2022-06-12,4101,Hat,93.0,3.6,Credit Card
+2022-07-10,4117,Backpack,13.0,3.4,Cash
+2023-03-05,4090,Jeans,195.0,1.6,Credit Card
+2022-08-11,4050,Coat,53.0,2.2,Cash
+2023-06-01,4068,Jacket,86.0,1.3,Cash
+2023-10-08,3973,Belt,136.0,4.2,Credit Card
+2023-05-08,4009,Overalls,44.0,1.6,Credit Card
+2023-03-09,4062,Backpack,111.0,3.7,Cash
+2023-06-08,4122,Camisole,120.0,4.2,Cash
+2023-09-07,3998,Flannel Shirt,176.0,2.5,Credit Card
+2023-05-02,4022,Blouse,44.0,1.3,Credit Card
+2023-12-07,4060,T-Shirt,55.0,4.5,Credit Card
+2023-03-06,4018,Loafers,91.0,4.7,Credit Card
+2023-12-06,4036,T-Shirt,156.70981818181818,3.4,Credit Card
+2023-10-08,4081,Backpack,150.0,2.9,Cash
+2023-05-01,4100,Dress,156.70981818181818,3.0,Credit Card
+2023-10-04,4068,Blouse,191.0,1.4,Credit Card
+2023-12-05,4065,Boots,84.0,3.5,Credit Card
+2022-08-10,4122,Jumpsuit,27.0,3.0,Cash
+2023-05-03,3966,Hoodie,114.0,3.4,Credit Card
+2022-03-12,4008,Sneakers,45.0,4.8,Cash
+2023-05-02,3997,Pants,71.0,2.8,Cash
+2023-09-02,4026,Handbag,49.0,4.2,Cash
+2023-07-02,4097,Polo Shirt,187.0,1.6,Cash
+2023-09-08,4002,Poncho,19.0,2.3,Cash
+2023-05-02,4121,Trousers,102.0,3.4,Credit Card
+2023-12-01,3962,Socks,156.70981818181818,1.5,Cash
+2023-06-08,3971,Blouse,180.0,3.9,Cash
+2023-07-01,4037,Tunic,154.0,4.2,Credit Card
+2023-04-08,4111,Sunglasses,183.0,4.3,Cash
+2022-05-12,4061,Blazer,156.70981818181818,3.0,Credit Card
+2022-07-10,3980,Onesie,142.0,3.0,Credit Card
+2022-04-10,3992,Boots,124.0,3.5,Credit Card
+2022-05-11,4017,Sweater,128.0,3.4,Credit Card
+2023-03-03,4103,Tank Top,48.0,2.1,Cash
+2023-01-09,3987,Handbag,85.0,1.5,Credit Card
+2023-04-09,4090,Polo Shirt,31.0,1.5,Credit Card
+2022-05-11,4017,Cardigan,122.0,1.1,Cash
+2023-07-03,4110,Skirt,125.0,3.3,Cash
+2023-05-09,4037,Tie,156.70981818181818,3.0,Credit Card
+2022-07-11,4065,Gloves,54.0,1.9,Credit Card
+2023-04-03,3993,Pajamas,128.0,2.7,Credit Card
+2022-01-12,3984,Pants,113.0,3.0,Credit Card
+2022-10-10,4001,Raincoat,57.0,3.1,Cash
+2023-12-06,4061,Umbrella,119.0,4.6,Credit Card
+2023-07-07,4082,Shorts,147.0,1.9,Credit Card
+2022-08-12,4052,Coat,127.0,1.9,Cash
+2023-11-08,4096,Skirt,173.0,3.7,Cash
+2023-05-07,4065,Cardigan,109.0,3.0,Credit Card
+2023-12-05,4078,Raincoat,160.0,3.0,Credit Card
+2023-10-09,3994,Trousers,182.0,1.8,Cash
+2023-03-03,4078,Swimsuit,161.0,3.3,Cash
+2023-08-09,4035,Dress,156.70981818181818,1.9,Credit Card
+2022-10-12,4122,Pants,56.0,2.1,Cash
+2023-02-03,4112,Hat,46.0,3.0,Cash
+2022-07-10,3965,Belt,117.0,1.8,Credit Card
+2023-03-01,4049,Wallet,125.0,4.0,Credit Card
+2023-07-06,3959,Skirt,135.0,3.3,Credit Card
+2023-08-05,4057,Sneakers,123.0,2.0,Credit Card
+2023-09-05,4022,Kimono,31.0,2.2,Cash
+2023-09-08,4034,Wallet,66.0,1.7,Credit Card
+2023-12-02,4033,Romper,156.70981818181818,2.6,Cash
+2022-05-12,4118,Jumpsuit,78.0,1.3,Credit Card
+2023-08-07,4121,Pants,20.0,3.0,Credit Card
+2023-09-04,4027,Pajamas,156.70981818181818,1.0,Cash
+2023-02-07,4082,Camisole,18.0,1.4,Cash
+2022-08-12,4077,Onesie,99.0,3.6,Credit Card
+2022-04-10,4062,Jacket,32.0,4.0,Cash
+2023-01-06,4065,Sunglasses,70.0,2.2,Cash
+2023-04-09,3982,Belt,198.0,3.0,Cash
+2023-06-04,3998,Camisole,99.0,1.6,Credit Card
+2023-04-02,4023,Sneakers,166.0,4.7,Cash
+2022-03-10,3973,Hoodie,62.0,3.5,Cash
+2023-10-05,3964,Leggings,141.0,1.3,Cash
+2023-04-06,4121,Onesie,115.0,3.0,Cash
+2022-05-10,3991,Trousers,73.0,3.9,Credit Card
+2023-09-03,3957,Blouse,183.0,2.1,Credit Card
+2023-05-02,4059,Backpack,46.0,4.9,Credit Card
+2023-08-03,4008,Boots,78.0,3.8,Cash
+2023-10-06,4117,Pajamas,106.0,5.0,Credit Card
+2023-10-02,4035,Tie,172.0,3.0,Cash
+2022-02-12,4037,Sun Hat,33.0,4.4,Cash
+2022-08-11,4020,Polo Shirt,197.0,4.3,Credit Card
+2023-03-09,4089,Polo Shirt,156.70981818181818,2.5,Cash
+2023-09-01,3990,Gloves,172.0,3.9,Credit Card
+2023-05-06,4109,Pajamas,101.0,2.3,Credit Card
+2023-05-09,4062,Hoodie,146.0,2.6,Cash
+2023-12-03,4072,Romper,136.0,4.1,Credit Card
+2022-08-10,4023,Sunglasses,156.70981818181818,4.8,Credit Card
+2023-09-06,4040,Poncho,156.70981818181818,3.6,Credit Card
+2023-12-06,4029,Gloves,127.0,3.2,Cash
+2023-10-01,4007,Tank Top,156.70981818181818,4.6,Credit Card
+2022-08-11,4051,Swimsuit,119.0,3.5,Cash
+2022-02-11,4053,Jeans,80.0,4.3,Cash
+2023-04-05,4014,Sun Hat,31.0,5.0,Cash
+2023-06-09,4099,Shorts,88.0,4.8,Credit Card
+2023-01-01,4122,Sweater,69.0,3.7,Credit Card
+2023-03-08,4024,Pants,40.0,3.6,Credit Card
+2022-07-11,4000,Sun Hat,118.0,4.3,Cash
+2023-11-01,4059,Boots,156.70981818181818,3.0,Credit Card
+2023-06-06,4066,Gloves,36.0,1.6,Credit Card
+2023-09-01,4110,Sweater,86.0,3.0,Cash
+2023-07-01,4051,Tank Top,156.70981818181818,1.1,Credit Card
+2023-03-03,4000,Romper,12.0,3.0,Cash
+2023-04-01,4102,Pants,52.0,1.7,Credit Card
+2023-01-03,3987,Pajamas,194.0,1.3,Credit Card
+2023-09-03,3960,Camisole,48.0,4.8,Credit Card
+2023-10-07,4083,Swimsuit,156.70981818181818,2.7,Credit Card
+2023-09-08,3987,Sweater,160.0,2.9,Credit Card
+2022-02-10,4014,Tank Top,99.0,1.2,Cash
+2023-11-06,4005,Wallet,73.0,1.1,Cash
+2023-10-05,4025,Slippers,31.0,4.4,Cash
+2023-02-07,4054,Loafers,186.0,3.5,Credit Card
+2023-02-05,3990,Coat,156.70981818181818,4.9,Credit Card
+2022-06-12,4067,Jeans,87.0,1.1,Credit Card
+2023-12-03,4110,Swimsuit,110.0,4.6,Credit Card
+2022-04-11,4012,Pants,23.0,3.2,Cash
+2022-04-10,4029,Hoodie,71.0,3.0,Cash
+2023-01-05,4003,T-Shirt,145.0,2.0,Credit Card
+2022-10-11,3994,Tie,91.0,4.1,Cash
+2023-09-08,3964,Pants,156.70981818181818,1.9,Cash
+2022-07-11,4031,Tunic,155.0,1.0,Credit Card
+2023-02-04,4051,Flannel Shirt,20.0,1.2,Cash
+2023-06-06,4122,Blazer,170.0,4.6,Cash
+2023-01-02,3978,Tie,112.0,2.3,Cash
+2023-03-09,3959,Camisole,156.70981818181818,1.6,Credit Card
+2023-04-07,3991,Bowtie,156.70981818181818,1.0,Cash
+2023-01-08,4039,Backpack,156.70981818181818,4.2,Cash
+2022-11-11,4011,T-Shirt,49.0,3.0,Cash
+2023-08-01,4022,Sweater,121.0,4.6,Cash
+2023-09-02,3975,Backpack,71.0,1.6,Cash
+2023-07-08,4099,Loafers,156.70981818181818,2.8,Cash
+2022-08-11,3972,Tunic,126.0,3.8,Credit Card
+2023-01-04,4042,Trench Coat,199.0,3.8,Cash
+2022-02-10,4077,T-Shirt,156.70981818181818,2.1,Cash
+2023-07-07,4110,Umbrella,98.0,4.8,Cash
+2022-11-11,3968,Overalls,194.0,2.6,Credit Card
+2023-12-02,4115,Sunglasses,40.0,2.8,Cash
+2023-09-09,4051,Gloves,157.0,3.2,Credit Card
+2023-07-04,3990,Belt,137.0,1.6,Credit Card
+2023-06-02,4100,Coat,102.0,3.8,Cash
+2023-06-08,3967,Sneakers,156.70981818181818,3.0,Credit Card
+2023-08-09,4105,Hoodie,52.0,3.0,Credit Card
+2023-10-06,4083,Scarf,156.70981818181818,4.4,Cash
+2023-01-06,4043,Vest,13.0,1.8,Credit Card
+2022-03-10,4076,Flip-Flops,130.0,2.9,Credit Card
+2022-07-10,4038,Vest,19.0,4.2,Cash
+2023-04-02,4067,Poncho,117.0,4.4,Credit Card
+2022-08-10,3993,Sun Hat,73.0,3.0,Cash
+2023-10-03,4023,Loafers,194.0,4.9,Credit Card
+2023-10-03,4037,Tank Top,40.0,4.4,Credit Card
+2022-01-12,3968,Overalls,23.0,1.9,Cash
+2023-05-07,3989,Onesie,156.70981818181818,1.2,Credit Card
+2022-11-10,4028,Backpack,27.0,1.1,Credit Card
+2023-06-02,4049,Backpack,82.0,4.7,Credit Card
+2023-07-08,4067,Vest,89.0,3.4,Cash
+2023-01-10,4029,Pajamas,151.0,4.0,Cash
+2023-08-07,4024,Coat,104.0,3.5,Credit Card
+2023-01-01,4024,Swimsuit,199.0,4.0,Cash
+2022-12-11,4089,Backpack,128.0,3.4,Credit Card
+2023-05-07,4037,Belt,136.0,4.1,Cash
+2023-01-02,3970,Trousers,156.70981818181818,2.2,Credit Card
+2023-10-04,3995,Boots,36.0,4.5,Credit Card
+2023-07-07,3970,Cardigan,70.0,3.8,Credit Card
+2023-12-07,4015,Coat,25.0,3.4,Credit Card
+2022-12-10,4076,T-Shirt,31.0,2.2,Cash
+2023-04-09,4068,Tunic,139.0,2.3,Credit Card
+2023-02-07,4083,Socks,29.0,2.4,Credit Card
+2023-05-07,3967,Sun Hat,25.0,4.3,Cash
+2022-08-10,4070,Socks,43.0,2.6,Cash
+2023-09-08,4083,Hoodie,29.0,2.4,Credit Card
+2023-05-08,4000,Hoodie,40.0,3.3,Credit Card
+2023-03-05,4011,Cardigan,93.0,4.7,Cash
+2022-08-12,4106,Vest,156.70981818181818,2.8,Cash
+2023-12-01,3958,Trench Coat,101.0,3.3,Credit Card
+2023-07-01,4103,Leggings,76.0,1.2,Cash
+2023-07-08,4003,Tunic,54.0,4.9,Cash
+2023-04-03,3976,Camisole,125.0,1.5,Cash
+2022-12-10,4084,Blouse,128.0,1.2,Cash
+2023-11-05,4029,Trousers,66.0,1.8,Credit Card
+2023-08-06,3988,Tie,156.70981818181818,3.3,Cash
+2023-07-08,4108,Skirt,156.70981818181818,2.7,Credit Card
+2023-06-06,4039,Jumpsuit,156.70981818181818,2.1,Credit Card
+2023-03-08,3964,Jeans,123.0,3.2,Credit Card
+2022-01-12,4073,Slippers,22.0,1.4,Cash
+2023-04-08,4117,Dress,156.70981818181818,4.9,Credit Card
+2023-12-08,4109,Coat,17.0,3.0,Cash
+2023-05-07,4041,Umbrella,156.70981818181818,1.7,Cash
+2022-11-11,4102,Romper,85.0,1.4,Credit Card
+2023-12-01,4011,Scarf,32.0,2.8,Cash
+2023-04-07,4111,Flannel Shirt,154.0,2.5,Credit Card
+2023-12-07,3980,Loafers,16.0,2.5,Credit Card
+2023-02-02,3962,Trousers,50.0,2.8,Credit Card
+2023-05-01,4010,Cardigan,156.70981818181818,2.6,Credit Card
+2023-03-09,3998,Swimsuit,78.0,2.5,Credit Card
+2022-02-12,4056,Flip-Flops,198.0,3.9,Cash
+2023-02-08,4029,Dress,66.0,1.9,Credit Card
+2023-02-09,4122,Romper,109.0,5.0,Cash
+2023-02-03,4033,Pajamas,198.0,4.2,Credit Card
+2023-11-09,4036,Flip-Flops,155.0,3.0,Cash
+2022-11-10,4048,Pants,54.0,3.0,Credit Card
+2023-11-03,3981,Sunglasses,33.0,2.8,Cash
+2023-05-08,4088,Kimono,15.0,4.7,Credit Card
+2022-05-10,4071,Pants,43.0,3.0,Credit Card
+2023-02-06,4056,Jumpsuit,55.0,3.0,Cash
+2023-03-06,4078,Blazer,92.0,4.1,Credit Card
+2023-06-04,4101,Hoodie,156.70981818181818,3.2,Credit Card
+2023-01-10,4110,Kimono,46.0,4.6,Cash
+2023-02-03,3980,Overalls,28.0,3.9,Cash
+2023-04-06,4065,Leggings,179.0,3.0,Credit Card
+2023-01-07,4004,Coat,156.70981818181818,4.0,Credit Card
+2022-11-12,4066,Sunglasses,176.0,3.0,Credit Card
+2023-10-01,3967,Raincoat,187.0,1.1,Credit Card
+2022-11-11,4088,Hoodie,167.0,1.2,Credit Card
+2022-03-11,4075,Hat,54.0,1.5,Cash
+2022-08-11,3996,Overalls,156.70981818181818,1.7,Credit Card
+2023-03-02,4122,Tunic,156.70981818181818,1.0,Cash
+2023-05-05,4031,Blouse,156.70981818181818,2.6,Cash
+2023-07-06,4076,Shorts,94.0,4.8,Cash
+2022-08-12,4079,Dress,156.70981818181818,4.0,Credit Card
+2023-02-01,3995,Cardigan,181.0,3.0,Credit Card
+2023-06-02,3989,Vest,95.0,1.8,Credit Card
+2023-12-04,4066,Blouse,37.0,2.3,Credit Card
+2022-03-10,4032,Bowtie,22.0,1.1,Credit Card
+2023-06-04,4102,Swimsuit,197.0,3.6,Cash
+2022-08-10,4098,Flip-Flops,136.0,4.0,Cash
+2022-11-12,3976,Leggings,99.0,2.2,Credit Card
+2022-08-11,4088,Hoodie,157.0,2.8,Cash
+2023-02-07,3984,Umbrella,185.0,2.9,Credit Card
+2023-05-03,4087,Tie,125.0,4.5,Cash
+2022-10-10,4065,Trench Coat,156.70981818181818,2.7,Cash
+2022-07-12,4062,Bowtie,85.0,3.0,Cash
+2023-11-04,3981,Sandals,156.70981818181818,4.6,Cash
+2023-07-06,4075,Umbrella,36.0,2.2,Credit Card
+2022-05-10,4047,Backpack,197.0,2.7,Cash
+2023-01-02,4063,Vest,179.0,1.2,Credit Card
+2023-12-05,4033,Jacket,70.0,1.5,Cash
+2022-06-10,4037,Gloves,156.70981818181818,3.0,Cash
+2023-09-04,4107,Pajamas,150.0,1.1,Credit Card
+2022-07-12,4072,Wallet,156.70981818181818,1.3,Cash
+2023-09-05,4004,Polo Shirt,173.0,2.6,Cash
+2022-06-10,4111,Skirt,39.0,4.8,Cash
+2023-08-07,3984,Hat,179.0,4.3,Credit Card
+2022-02-12,4093,Skirt,57.0,4.7,Credit Card
+2022-07-10,3961,Vest,107.0,3.0,Credit Card
+2023-01-08,3960,Vest,78.0,4.9,Cash
+2022-01-12,4000,Trousers,48.0,3.0,Credit Card
+2022-01-11,4074,Leggings,156.70981818181818,4.6,Cash
+2023-06-04,4115,Tank Top,147.0,3.7,Cash
+2022-10-12,4114,Poncho,131.0,3.7,Cash
+2023-09-08,4058,Shorts,30.0,4.2,Credit Card
+2023-12-01,3960,Pants,47.0,1.2,Cash
+2023-09-04,3985,Pants,54.0,4.3,Cash
+2023-03-08,4010,Sunglasses,184.0,3.0,Cash
+2023-07-04,4080,Dress,170.0,2.5,Credit Card
+2023-05-01,4094,Swimsuit,151.0,4.6,Cash
+2023-02-07,3994,Scarf,156.70981818181818,4.5,Credit Card
+2023-10-05,4078,Jeans,156.70981818181818,4.8,Credit Card
+2022-09-12,3962,Umbrella,35.0,2.1,Credit Card
+2023-11-06,3996,Sandals,98.0,1.3,Credit Card
+2023-02-03,4070,Handbag,77.0,3.0,Cash
+2023-05-09,4081,Hat,134.0,1.0,Cash
+2023-10-02,3962,Pants,156.70981818181818,3.0,Credit Card
+2022-11-12,4008,Hoodie,94.0,1.5,Cash
+2023-07-08,4042,Flannel Shirt,135.0,2.3,Credit Card
+2022-04-12,4109,Trousers,156.70981818181818,2.1,Credit Card
+2022-10-10,4031,Blazer,142.0,2.0,Credit Card
+2022-02-12,4059,Raincoat,156.70981818181818,3.8,Cash
+2023-09-07,4081,Tie,113.0,3.0,Cash
+2023-02-08,4088,Onesie,156.70981818181818,3.7,Cash
+2023-03-08,4122,Socks,99.0,1.5,Cash
+2023-09-04,4078,Camisole,186.0,3.4,Cash
+2022-04-12,4083,Slippers,156.70981818181818,1.1,Credit Card
+2023-11-06,4116,Flip-Flops,156.70981818181818,1.8,Cash
+2023-12-06,4045,Leggings,175.0,3.0,Credit Card
+2023-12-03,4068,Camisole,114.0,3.0,Credit Card
+2022-08-10,4006,Leggings,156.70981818181818,2.7,Credit Card
+2023-05-05,4016,Pants,118.0,4.8,Cash
+2022-12-12,4086,Kimono,99.0,2.9,Cash
+2023-09-03,4013,Leggings,65.0,1.6,Cash
+2023-06-07,4107,Shorts,183.0,2.0,Credit Card
+2023-06-05,4043,Umbrella,169.0,4.8,Cash
+2022-07-10,3990,Flannel Shirt,105.0,3.8,Cash
+2023-02-03,4032,Camisole,162.0,2.5,Cash
+2023-05-05,4077,Handbag,173.0,3.6,Credit Card
+2022-10-10,4116,Handbag,192.0,4.6,Cash
+2022-08-12,4010,Slippers,176.0,3.4,Cash
+2023-10-01,4029,Skirt,48.0,2.7,Cash
+2022-03-11,4080,Scarf,163.0,3.9,Cash
+2023-07-04,3990,Poncho,91.0,3.2,Credit Card
+2023-06-04,4008,Tie,156.70981818181818,2.6,Cash
+2022-07-11,4112,Polo Shirt,117.0,4.5,Cash
+2023-11-04,4082,Jumpsuit,198.0,4.7,Credit Card
+2023-11-01,3982,Coat,156.70981818181818,1.9,Credit Card
+2022-04-10,4083,Pajamas,97.0,2.2,Credit Card
+2022-05-11,4034,Scarf,66.0,1.2,Cash
+2023-06-05,4048,T-Shirt,130.0,4.2,Cash
+2023-12-03,3997,Jeans,56.0,4.8,Credit Card
+2023-06-05,4001,Blazer,95.0,3.6,Credit Card
+2022-02-11,3986,Backpack,40.0,3.2,Cash
+2023-11-04,4115,Overalls,172.0,3.2,Cash
+2022-07-12,4015,Tie,168.0,3.7,Credit Card
+2023-01-01,3987,Tie,156.70981818181818,3.0,Cash
+2023-09-02,4100,Raincoat,138.0,4.8,Credit Card
+2023-05-03,4014,Raincoat,156.70981818181818,3.0,Cash
+2022-09-11,4081,Polo Shirt,145.0,4.0,Credit Card
+2023-04-02,4044,Flannel Shirt,48.0,2.7,Credit Card
+2023-08-03,4099,Shorts,127.0,2.2,Cash
+2023-12-04,3969,Sun Hat,156.70981818181818,4.8,Credit Card
+2023-07-04,4074,Coat,50.0,1.5,Credit Card
+2022-04-12,4118,Tank Top,67.0,3.1,Cash
+2022-11-11,4009,Skirt,36.0,4.0,Cash
+2023-01-07,4086,Jeans,162.0,3.5,Cash
+2023-12-05,3982,Tie,44.0,3.0,Credit Card
+2023-04-03,3996,Skirt,135.0,1.9,Credit Card
+2023-09-05,3992,Flip-Flops,156.70981818181818,1.2,Credit Card
+2022-04-12,4069,Handbag,53.0,3.6,Credit Card
+2023-12-07,4063,Bowtie,156.70981818181818,4.4,Cash
+2023-09-01,4019,Slippers,173.0,3.0,Cash
+2023-08-08,4044,Wallet,162.0,1.5,Credit Card
+2023-12-06,4030,Cardigan,179.0,3.0,Credit Card
+2023-10-09,3978,Gloves,116.0,3.0,Credit Card
+2023-09-07,4049,Pajamas,171.0,3.0,Credit Card
+2022-05-10,4118,Shorts,156.70981818181818,4.9,Credit Card
+2023-11-04,4019,Socks,35.0,2.0,Cash
+2023-05-01,4015,Overalls,36.0,1.3,Cash
+2023-03-02,3992,Tie,168.0,2.2,Credit Card
+2023-03-06,4062,Romper,156.70981818181818,2.3,Cash
+2023-01-06,4061,Poncho,156.70981818181818,4.5,Credit Card
+2023-06-07,4089,T-Shirt,156.70981818181818,2.5,Cash
+2023-04-02,3964,Gloves,101.0,2.3,Cash
+2022-05-10,4070,Trench Coat,85.0,1.7,Credit Card
+2023-05-01,3974,Sandals,10.0,4.4,Cash
+2023-06-08,4037,Umbrella,156.70981818181818,3.2,Credit Card
+2023-04-04,4059,Boots,136.0,4.6,Cash
+2023-11-05,3999,T-Shirt,156.70981818181818,1.2,Credit Card
+2023-09-06,4068,Tie,156.70981818181818,2.7,Cash
+2023-02-02,3972,Dress,195.0,2.1,Cash
+2023-07-01,3966,Jeans,126.0,3.0,Credit Card
+2023-07-08,3971,Poncho,156.70981818181818,2.1,Cash
+2023-04-06,4090,Leggings,183.0,1.3,Credit Card
+2022-09-12,4059,Sunglasses,21.0,1.1,Credit Card
+2023-11-02,3959,Socks,78.0,2.1,Cash
+2023-05-01,4092,Backpack,97.0,3.2,Credit Card
+2022-09-12,3994,Sweater,126.0,3.7,Credit Card
+2023-01-02,4071,Belt,132.0,2.6,Credit Card
+2023-12-04,4116,Camisole,25.0,3.6,Credit Card
+2023-01-08,4070,Vest,156.70981818181818,1.8,Credit Card
+2023-01-09,4045,Leggings,133.0,1.5,Cash
+2023-05-01,4060,Flannel Shirt,183.0,3.6,Cash
+2023-11-02,4007,Coat,166.0,3.7,Cash
+2023-01-06,3966,Skirt,196.0,3.7,Cash
+2023-02-07,4095,Sunglasses,13.0,3.9,Credit Card
+2022-10-12,4098,Sun Hat,142.0,1.8,Cash
+2023-01-02,4036,Coat,189.0,4.5,Credit Card
+2023-03-01,4044,Scarf,73.0,4.8,Credit Card
+2023-07-02,3964,Belt,166.0,3.1,Credit Card
+2022-02-10,4108,Handbag,50.0,2.1,Credit Card
+2022-04-11,4023,Jumpsuit,130.0,4.1,Credit Card
+2023-06-05,4018,Slippers,52.0,4.1,Cash
+2023-06-01,4065,Jeans,71.0,2.2,Cash
+2023-01-03,4023,Sunglasses,156.70981818181818,4.1,Cash
+2022-11-12,4117,Pajamas,156.0,2.5,Credit Card
+2023-03-03,4047,Poncho,40.0,1.6,Credit Card
+2023-12-06,3988,Camisole,200.0,2.5,Cash
+2023-04-09,3969,Blouse,36.0,1.4,Credit Card
+2022-07-11,3988,Overalls,19.0,3.1,Credit Card
+2023-07-08,4071,Handbag,10.0,2.6,Cash
+2023-09-08,4073,Hat,177.0,4.8,Credit Card
+2022-06-10,4043,Boots,97.0,4.4,Cash
+2023-11-09,4017,Backpack,23.0,4.7,Credit Card
+2023-06-06,4105,Gloves,126.0,3.5,Cash
+2022-05-12,4029,Jumpsuit,84.0,3.5,Cash
+2023-09-08,4089,Jeans,156.70981818181818,3.8,Credit Card
+2022-06-11,4006,Slippers,58.0,4.5,Credit Card
+2023-11-07,4073,Shorts,21.0,1.3,Credit Card
+2022-04-12,3994,Loafers,125.0,1.5,Cash
+2022-03-10,4062,Skirt,44.0,3.0,Cash
+2023-04-02,3972,Sandals,120.0,4.6,Cash
+2023-11-09,3990,Hoodie,55.0,3.4,Credit Card
+2023-04-01,4011,Kimono,42.0,3.4,Credit Card
+2023-11-05,4071,Swimsuit,156.70981818181818,4.8,Credit Card
+2022-06-12,4091,Skirt,117.0,3.9,Cash
+2023-11-06,4060,Kimono,187.0,3.0,Credit Card
+2022-09-11,4106,Jacket,141.0,3.2,Credit Card
+2023-02-05,4084,Scarf,189.0,4.0,Cash
+2023-03-03,3998,Bowtie,43.0,2.2,Cash
+2023-03-06,3993,Coat,176.0,3.0,Cash
+2022-03-10,4081,T-Shirt,191.0,3.9,Cash
+2023-05-04,4088,Sunglasses,180.0,3.8,Cash
+2023-12-08,3965,Raincoat,23.0,1.3,Credit Card
+2023-11-03,3997,Onesie,61.0,2.7,Credit Card
+2023-06-03,4111,T-Shirt,85.0,3.4,Credit Card
+2022-10-12,4061,Coat,148.0,3.3,Credit Card
+2023-01-06,3967,Loafers,140.0,3.4,Credit Card
+2023-03-03,3996,Polo Shirt,180.0,1.8,Cash
+2022-08-12,4052,Flannel Shirt,116.0,1.4,Cash
+2023-12-06,4035,Trench Coat,185.0,4.2,Credit Card
+2022-11-10,4034,Pants,156.70981818181818,3.1,Credit Card
+2023-12-09,4032,Scarf,61.0,3.2,Cash
+2023-12-05,3964,Shorts,172.0,4.3,Credit Card
+2023-01-06,3993,Scarf,175.0,3.0,Cash
+2023-07-04,3993,Jeans,160.0,4.5,Credit Card
+2023-09-05,3969,Gloves,59.0,3.2,Credit Card
+2023-05-05,4029,Camisole,29.0,1.3,Credit Card
+2022-11-12,4012,Tank Top,156.70981818181818,1.4,Cash
+2023-10-04,4003,Blouse,156.70981818181818,3.2,Cash
+2022-03-10,3957,Sneakers,156.70981818181818,4.4,Credit Card
+2023-10-05,3988,Onesie,77.0,4.2,Credit Card
+2022-09-10,4046,Hoodie,75.0,2.8,Credit Card
+2023-04-02,3968,Romper,49.0,3.0,Cash
+2023-07-01,4103,Cardigan,156.70981818181818,1.1,Credit Card
+2023-06-09,4101,Poncho,87.0,3.0,Cash
+2023-02-04,4072,Kimono,156.0,1.1,Cash
+2022-07-11,3990,Sandals,156.70981818181818,4.8,Cash
+2023-12-03,4072,Sneakers,65.0,5.0,Credit Card
+2023-02-08,4071,Vest,168.0,3.7,Cash
+2023-07-06,3995,Skirt,153.0,3.0,Credit Card
+2023-07-06,3968,Belt,105.0,1.0,Credit Card
+2023-06-07,4028,Poncho,21.0,2.4,Credit Card
+2023-04-08,3999,Flip-Flops,34.0,1.9,Cash
+2022-10-11,3963,Skirt,156.70981818181818,2.1,Credit Card
+2023-10-02,4103,Loafers,147.0,2.3,Cash
+2023-04-08,4118,Pajamas,170.0,2.5,Cash
+2023-08-05,4122,Sunglasses,118.0,3.5,Cash
+2023-12-03,3978,Jacket,175.0,4.1,Credit Card
+2023-11-03,4006,Bowtie,28.0,3.0,Credit Card
+2022-09-10,4115,Coat,49.0,3.5,Credit Card
+2023-03-08,4104,Trench Coat,19.0,1.3,Cash
+2023-05-09,4102,Slippers,156.70981818181818,2.6,Credit Card
+2023-03-05,4078,Loafers,76.0,3.0,Cash
+2023-02-03,3961,Flannel Shirt,120.0,1.7,Cash
+2022-06-12,4093,Vest,146.0,3.1,Cash
+2022-08-12,4003,Jeans,156.70981818181818,4.1,Cash
+2023-10-02,4009,Leggings,156.70981818181818,3.0,Cash
+2022-07-12,4070,Raincoat,185.0,3.7,Credit Card
+2023-09-07,4112,Scarf,179.0,3.9,Cash
+2023-02-07,4107,Swimsuit,110.0,4.1,Cash
+2022-09-11,4082,Jumpsuit,172.0,4.3,Credit Card
+2023-05-09,3962,Leggings,156.70981818181818,4.9,Credit Card
+2023-07-02,4054,Scarf,199.0,3.0,Credit Card
+2022-10-10,4022,Overalls,98.0,3.0,Credit Card
+2022-04-10,3980,Sunglasses,175.0,2.6,Cash
+2022-08-11,3982,Gloves,156.70981818181818,4.3,Cash
+2023-03-01,4095,Sun Hat,74.0,4.7,Credit Card
+2022-11-12,3979,Flannel Shirt,156.70981818181818,1.2,Credit Card
+2023-08-01,3996,Scarf,74.0,1.2,Cash
+2023-06-03,3972,Romper,156.70981818181818,2.4,Credit Card
+2023-04-03,4040,Wallet,27.0,3.8,Credit Card
+2023-10-06,4062,Leggings,174.0,2.6,Cash
+2022-03-11,4039,Socks,102.0,1.9,Credit Card
+2022-06-12,4008,Dress,54.0,2.6,Credit Card
+2023-08-07,4083,Bowtie,156.70981818181818,4.3,Cash
+2023-06-06,4086,Loafers,156.70981818181818,4.1,Credit Card
+2023-03-09,4025,Pajamas,161.0,2.5,Cash
+2023-08-07,3972,Boots,19.0,3.8,Credit Card
+2022-05-11,4075,Jeans,148.0,1.5,Cash
+2022-10-11,4061,Overalls,33.0,1.3,Credit Card
+2023-12-01,4119,Cardigan,138.0,3.1,Credit Card
+2023-09-02,3961,Vest,167.0,1.9,Credit Card
+2023-09-04,4107,Flannel Shirt,156.70981818181818,2.6,Credit Card
+2023-07-03,4020,Trousers,47.0,3.4,Credit Card
+2023-04-08,4034,Jacket,134.0,1.4,Credit Card
+2023-03-07,4102,Onesie,77.0,3.8,Cash
+2023-09-05,3993,Tunic,156.70981818181818,1.2,Credit Card
+2023-08-01,4099,Kimono,106.0,4.5,Cash
+2023-06-07,3967,Sweater,100.0,1.1,Cash
+2023-02-02,3957,Vest,98.0,2.8,Cash
+2022-03-10,4075,Blazer,133.0,4.0,Credit Card
+2022-02-12,4080,Swimsuit,156.70981818181818,4.4,Cash
+2023-07-07,4110,Skirt,40.0,3.5,Credit Card
+2022-01-11,4021,Jeans,116.0,4.3,Credit Card
+2023-03-05,4118,T-Shirt,132.0,4.2,Credit Card
+2022-08-12,4029,Tank Top,156.70981818181818,3.1,Cash
+2022-05-10,3968,Camisole,51.0,1.8,Credit Card
+2023-04-05,4093,Gloves,156.0,1.4,Cash
+2023-02-04,3974,Hoodie,156.70981818181818,3.0,Credit Card
+2023-07-09,4010,Dress,156.70981818181818,2.7,Credit Card
+2023-03-04,4119,Sandals,195.0,4.0,Credit Card
+2023-11-06,4023,Trousers,126.0,1.4,Credit Card
+2023-09-02,4039,Sneakers,156.70981818181818,3.3,Cash
+2023-10-05,4010,Coat,48.0,3.3,Cash
+2022-04-10,4110,Slippers,167.0,4.6,Credit Card
+2022-05-10,4041,Overalls,146.0,4.4,Credit Card
+2023-02-05,3958,Tie,21.0,2.8,Credit Card
+2022-08-12,4001,Bowtie,133.0,1.7,Cash
+2023-02-04,4057,Flannel Shirt,118.0,4.6,Credit Card
+2022-07-11,4094,Boots,156.70981818181818,4.6,Credit Card
+2023-02-05,3977,Sunglasses,69.0,3.6,Cash
+2023-09-02,3964,Kimono,58.0,3.0,Credit Card
+2023-10-02,4110,Onesie,186.0,4.1,Cash
+2023-05-03,4048,Gloves,114.0,4.1,Credit Card
+2023-12-02,4056,Hoodie,49.0,1.6,Credit Card
+2022-06-11,4002,Sandals,159.0,1.4,Cash
+2023-11-08,4075,Romper,184.0,1.9,Credit Card
+2023-02-03,4006,Raincoat,152.0,3.0,Cash
+2022-04-10,4070,Sun Hat,104.0,4.5,Cash
+2023-02-07,4006,Tank Top,156.70981818181818,4.1,Credit Card
+2023-08-05,3980,Jacket,189.0,2.1,Credit Card
+2022-10-10,4114,Jacket,35.0,4.4,Credit Card
+2022-03-11,4049,Scarf,156.70981818181818,4.9,Cash
+2022-12-10,4028,Pajamas,156.70981818181818,3.0,Credit Card
+2023-04-02,4083,Socks,121.0,3.4,Cash
+2023-09-01,4010,Skirt,104.0,3.0,Cash
+2023-03-03,4120,Slippers,112.0,1.3,Credit Card
+2022-02-11,4000,Romper,142.0,1.9,Credit Card
+2023-05-07,4001,Blouse,10.0,3.7,Credit Card
+2023-11-08,3973,Gloves,32.0,2.4,Cash
+2023-02-07,4107,Swimsuit,112.0,1.4,Credit Card
+2023-09-08,3989,Flip-Flops,198.0,4.9,Credit Card
+2022-06-11,4102,Socks,195.0,3.0,Cash
+2023-09-09,4027,Socks,59.0,4.9,Credit Card
+2022-08-10,3962,Sneakers,76.0,3.0,Credit Card
+2023-11-05,4114,Coat,153.0,4.7,Cash
+2022-04-11,4100,Blazer,39.0,2.9,Credit Card
+2023-08-08,4073,Sunglasses,75.0,2.9,Cash
+2023-02-06,3957,Backpack,157.0,5.0,Cash
+2023-03-08,4066,Skirt,123.0,3.7,Credit Card
+2023-07-06,4121,Pants,154.0,3.0,Credit Card
+2023-08-06,4039,Skirt,127.0,2.7,Credit Card
+2022-10-12,4067,Poncho,160.0,4.9,Credit Card
+2023-05-04,4089,Onesie,189.0,3.0,Credit Card
+2023-10-08,4014,Flannel Shirt,112.0,3.0,Credit Card
+2022-08-10,4064,Sandals,131.0,3.7,Cash
+2023-03-03,4093,Shorts,65.0,2.6,Cash
+2023-01-04,4006,Scarf,71.0,3.6,Cash
+2023-10-06,4103,Trench Coat,101.0,1.8,Cash
+2023-04-03,3963,Belt,156.70981818181818,4.9,Credit Card
+2022-09-10,4065,Trousers,183.0,3.0,Cash
+2023-07-02,4117,Pajamas,140.0,4.0,Credit Card
+2022-11-10,3981,Belt,42.0,3.4,Credit Card
+2023-09-07,3963,Vest,110.0,4.8,Cash
+2022-12-12,4117,Loafers,40.0,1.6,Cash
+2023-03-09,4042,Sneakers,127.0,2.5,Cash
+2023-11-05,4021,Flannel Shirt,12.0,3.0,Credit Card
+2022-02-10,4020,Loafers,156.70981818181818,1.3,Credit Card
+2023-07-02,4018,Belt,76.0,5.0,Cash
+2023-01-04,4110,Gloves,112.0,4.7,Credit Card
+2023-05-08,4069,Sweater,157.0,2.3,Cash
+2022-12-12,3981,Dress,35.0,2.8,Credit Card
+2023-10-08,3988,Jacket,199.0,2.2,Credit Card
+2022-10-10,3978,Polo Shirt,156.70981818181818,1.1,Cash
+2023-07-01,3965,Sneakers,44.0,3.0,Credit Card
+2023-10-03,4053,Gloves,171.0,1.1,Credit Card
+2023-07-09,4034,Skirt,75.0,3.0,Credit Card
+2023-01-07,3973,Sneakers,153.0,4.7,Cash
+2023-05-04,4100,Coat,156.70981818181818,2.6,Cash
+2023-10-08,3970,Scarf,165.0,1.8,Credit Card
+2023-07-04,4032,Raincoat,156.70981818181818,3.6,Credit Card
+2023-03-09,4059,Cardigan,82.0,2.1,Cash
+2023-09-03,3981,Romper,182.0,4.9,Cash
+2022-05-11,4115,Loafers,198.0,3.0,Cash
+2023-07-05,4016,Camisole,83.0,3.1,Credit Card
+2022-03-10,4075,Flip-Flops,156.70981818181818,4.0,Cash
+2022-07-12,4115,Blazer,164.0,3.7,Credit Card
+2023-08-08,3982,Tank Top,79.0,2.5,Credit Card
+2023-05-05,3960,Pants,156.70981818181818,2.8,Cash
+2023-04-02,3974,Wallet,150.0,3.4,Credit Card
+2023-09-05,3989,Jeans,156.70981818181818,4.3,Credit Card
+2023-04-04,4022,Jacket,73.0,1.4,Cash
+2023-09-07,4047,Coat,123.0,2.0,Credit Card
+2023-12-04,4064,Umbrella,43.0,4.7,Credit Card
+2023-05-05,4019,Onesie,148.0,4.8,Cash
+2023-05-06,3992,Slippers,150.0,3.8,Cash
+2023-08-01,4068,Dress,89.0,3.1,Cash
+2022-03-10,4048,Sunglasses,32.0,1.1,Credit Card
+2023-03-01,4095,Gloves,10.0,1.8,Cash
+2023-03-09,4077,Coat,186.0,4.7,Credit Card
+2023-10-04,4031,Skirt,11.0,2.1,Credit Card
+2023-05-07,3994,Bowtie,109.0,1.4,Cash
+2023-01-03,4086,Raincoat,142.0,4.4,Credit Card
+2023-05-04,4065,Wallet,176.0,3.0,Cash
+2023-10-03,4008,Swimsuit,156.70981818181818,1.4,Cash
+2023-02-05,4120,Overalls,173.0,4.2,Credit Card
+2023-09-07,3974,Raincoat,169.0,2.8,Cash
+2023-01-08,4044,Blazer,92.0,4.8,Cash
+2023-05-05,4078,Trousers,156.70981818181818,1.2,Cash
+2022-09-12,4041,Wallet,193.0,4.4,Credit Card
+2023-01-09,4114,Sneakers,117.0,4.2,Cash
+2023-01-06,4033,Umbrella,137.0,1.2,Cash
+2022-01-12,4064,Flannel Shirt,128.0,4.1,Credit Card
+2023-09-05,4018,Tank Top,184.0,4.5,Credit Card
+2023-12-03,4080,Belt,92.0,3.0,Credit Card
+2023-06-07,4053,Scarf,200.0,3.6,Credit Card
+2023-10-09,4049,Handbag,180.0,3.0,Cash
+2023-11-07,3959,Skirt,38.0,3.0,Credit Card
+2023-11-02,4031,Hat,131.0,3.0,Credit Card
+2022-07-11,4069,Sandals,49.0,4.4,Cash
+2023-05-05,4106,Trousers,156.70981818181818,4.8,Credit Card
+2023-11-03,3968,Slippers,156.70981818181818,3.0,Credit Card
+2023-11-03,3964,Tie,49.0,3.1,Credit Card
+2023-01-08,4007,Blazer,156.70981818181818,1.8,Cash
+2022-10-11,4001,Dress,98.0,1.7,Cash
+2023-07-07,4013,Slippers,122.0,4.3,Cash
+2023-05-07,4024,Flannel Shirt,15.0,1.8,Credit Card
+2022-04-11,4002,Raincoat,197.0,3.9,Cash
+2022-04-11,3962,T-Shirt,156.70981818181818,1.3,Credit Card
+2023-11-06,4054,Umbrella,77.0,2.9,Credit Card
+2023-06-08,3985,Pants,126.0,4.0,Cash
+2023-05-03,4073,Flannel Shirt,103.0,3.5,Credit Card
+2023-09-04,4018,Cardigan,71.0,4.1,Credit Card
+2023-09-08,4052,Sun Hat,147.0,3.2,Cash
+2023-01-10,4000,Wallet,58.0,2.6,Credit Card
+2023-10-07,3987,Jacket,156.70981818181818,3.9,Cash
+2023-10-07,4006,Dress,61.0,3.3,Cash
+2022-10-10,4019,T-Shirt,193.0,3.8,Credit Card
+2023-04-06,4114,Raincoat,63.0,1.8,Credit Card
+2022-11-11,4005,T-Shirt,173.0,3.0,Cash
+2023-01-08,3995,Blouse,191.0,2.2,Cash
+2023-02-01,4118,Wallet,156.70981818181818,3.9,Cash
+2023-08-09,4087,Pants,156.70981818181818,1.7,Cash
+2023-06-08,4106,Hoodie,108.0,1.3,Cash
+2023-09-07,4114,Socks,37.0,4.6,Credit Card
+2023-08-07,3973,Belt,157.0,3.3,Cash
+2023-05-07,4087,Dress,96.0,2.6,Credit Card
+2023-02-09,4075,Umbrella,93.0,3.4,Credit Card
+2022-09-12,4052,Belt,92.0,2.4,Credit Card
+2023-09-06,4083,Sandals,200.0,1.7,Credit Card
+2022-05-10,4078,Blazer,125.0,2.6,Cash
+2023-03-08,4059,Hat,156.70981818181818,4.1,Credit Card
+2022-01-12,4106,Belt,87.0,4.7,Credit Card
+2022-08-12,4008,Blouse,186.0,1.7,Cash
+2023-05-06,4017,Jumpsuit,156.0,4.5,Credit Card
+2023-12-07,4103,Socks,75.0,2.9,Credit Card
+2023-08-08,3997,Blazer,33.0,3.9,Credit Card
+2023-06-09,3978,Overalls,186.0,1.6,Cash
+2023-05-09,4070,Hat,86.0,1.6,Credit Card
+2023-06-03,4089,Pajamas,156.70981818181818,1.5,Cash
+2023-09-08,4047,Belt,107.0,3.8,Cash
+2023-03-02,3967,Flannel Shirt,99.0,4.0,Cash
+2023-12-03,4076,Bowtie,121.0,3.0,Credit Card
+2023-05-05,4116,Leggings,68.0,1.7,Credit Card
+2023-10-06,4043,Trench Coat,164.0,3.9,Cash
+2023-12-08,4067,Overalls,91.0,3.5,Cash
+2023-01-05,4061,Raincoat,48.0,1.1,Cash
+2023-07-01,4038,Tie,110.0,2.8,Credit Card
+2023-01-04,4054,Overalls,33.0,1.4,Credit Card
+2022-08-10,4070,Jeans,156.70981818181818,3.7,Cash
+2023-08-06,4016,Jumpsuit,156.70981818181818,1.6,Credit Card
+2023-03-09,3978,Flip-Flops,156.70981818181818,3.8,Credit Card
+2023-03-04,3966,Vest,162.0,2.2,Cash
+2022-06-12,4096,Blouse,88.0,1.8,Credit Card
+2023-03-06,4041,Overalls,156.70981818181818,4.7,Credit Card
+2023-06-08,4034,Flannel Shirt,49.0,1.9,Credit Card
+2023-12-09,4027,Overalls,31.0,1.2,Credit Card
+2023-10-03,4029,Loafers,156.70981818181818,4.5,Credit Card
+2023-08-04,4045,Skirt,147.0,3.7,Cash
+2023-04-07,4060,Sunglasses,76.0,2.1,Credit Card
+2022-10-11,4077,Trousers,181.0,3.0,Credit Card
+2023-10-03,4088,Sweater,156.70981818181818,3.6,Cash
+2022-03-11,3995,Shorts,179.0,4.6,Cash
+2023-08-03,4058,Poncho,75.0,1.3,Credit Card
+2023-06-06,4015,Slippers,156.70981818181818,3.7,Cash
+2023-11-01,4044,Sun Hat,107.0,4.2,Credit Card
+2023-03-07,4037,Kimono,156.70981818181818,4.1,Cash
+2023-02-07,4072,Blazer,156.70981818181818,3.0,Cash
+2023-06-08,4099,Handbag,88.0,4.9,Cash
+2022-09-11,3964,Blazer,110.0,2.9,Cash
+2023-04-07,4047,Jacket,81.0,4.2,Cash
+2023-05-03,4060,Flannel Shirt,166.0,2.7,Credit Card
+2023-02-04,4040,Scarf,119.0,1.0,Credit Card
+2023-08-05,4107,Skirt,164.0,3.7,Cash
+2023-01-06,3996,Vest,89.0,4.3,Cash
+2023-01-03,4102,Shorts,120.0,3.1,Cash
+2023-06-05,4112,Onesie,91.0,2.6,Credit Card
+2023-08-05,4103,Hat,156.70981818181818,2.2,Cash
+2023-03-03,4057,Boots,194.0,3.4,Cash
+2022-04-11,4009,Sandals,47.0,3.0,Cash
+2023-11-05,4057,Flip-Flops,91.0,3.7,Credit Card
+2022-09-12,4093,Bowtie,87.0,3.0,Cash
+2023-11-08,4055,Wallet,173.0,3.3,Cash
+2023-04-06,4078,Shorts,156.70981818181818,3.0,Credit Card
+2023-05-09,4072,Jeans,167.0,5.0,Cash
+2022-01-12,4034,Pants,162.0,1.2,Cash
+2023-01-04,3980,Poncho,185.0,3.0,Credit Card
+2023-07-04,4098,Coat,44.0,2.6,Credit Card
+2023-05-08,4082,Polo Shirt,45.0,4.3,Cash
+2023-09-09,4004,Onesie,114.0,2.6,Credit Card
+2023-06-09,3974,Cardigan,115.0,2.1,Cash
+2022-10-12,4051,Pajamas,110.0,4.6,Credit Card
+2023-08-04,4062,Belt,156.70981818181818,3.2,Cash
+2023-05-09,3997,Jeans,72.0,3.0,Credit Card
+2023-06-03,3985,Cardigan,111.0,3.7,Cash
+2023-04-03,4056,Slippers,83.0,3.7,Credit Card
+2023-12-04,3990,Dress,23.0,4.5,Credit Card
+2023-10-04,4009,Backpack,46.0,2.8,Credit Card
+2022-06-11,4036,Backpack,175.0,1.4,Credit Card
+2023-10-07,4067,Wallet,194.0,4.9,Cash
+2023-09-02,4111,Dress,110.0,3.0,Cash
+2023-04-07,4104,Raincoat,125.0,4.4,Credit Card
+2023-05-02,4036,Blouse,156.70981818181818,4.7,Credit Card
+2023-11-05,4008,Camisole,126.0,4.0,Credit Card
+2023-04-03,3958,Raincoat,156.70981818181818,1.0,Cash
+2023-09-02,4111,Romper,50.0,4.4,Credit Card
+2022-03-12,4041,Trench Coat,156.70981818181818,1.3,Credit Card
+2023-02-04,4075,Pants,23.0,4.6,Credit Card
+2023-07-07,4104,Raincoat,89.0,3.9,Credit Card
+2023-08-06,4073,Overalls,169.0,3.9,Cash
+2023-10-08,4033,Blouse,137.0,2.7,Credit Card
+2023-07-05,4113,Tunic,136.0,3.6,Cash
+2022-03-11,4001,Wallet,160.0,2.1,Cash
+2022-03-10,4020,Vest,30.0,2.3,Credit Card
+2022-08-10,4115,Backpack,150.0,3.3,Cash
+2022-10-11,4055,Onesie,156.70981818181818,4.5,Cash
+2023-07-09,4102,Wallet,19.0,3.4,Credit Card
+2023-11-07,4018,Trench Coat,32.0,2.2,Credit Card
+2022-07-11,3997,Jumpsuit,156.70981818181818,3.0,Cash
+2023-04-03,3974,Tank Top,153.0,2.6,Cash
+2023-08-09,4083,Slippers,158.0,3.3,Credit Card
+2023-04-06,4062,Slippers,19.0,1.9,Credit Card
+2023-09-02,4086,Dress,41.0,3.3,Credit Card
+2023-08-06,3999,Gloves,24.0,3.3,Credit Card
+2022-06-12,3968,Kimono,186.0,4.5,Credit Card
+2022-05-12,3963,Onesie,165.0,3.9,Credit Card
+2023-03-07,3975,Leggings,76.0,2.4,Credit Card
+2023-07-09,4054,Jumpsuit,137.0,3.0,Cash
+2023-02-02,4059,Boots,56.0,3.0,Cash
+2023-07-05,3959,Pajamas,156.70981818181818,3.0,Credit Card
+2023-05-01,3978,Poncho,139.0,3.2,Cash
+2023-06-01,4069,Tunic,111.0,4.5,Credit Card
+2023-02-05,3992,Swimsuit,167.0,3.2,Cash
+2022-04-12,4000,Hat,131.0,4.1,Credit Card
+2023-05-08,3961,Leggings,175.0,3.5,Cash
+2023-02-05,3982,Tank Top,156.70981818181818,3.2,Cash
+2023-01-05,4002,Bowtie,147.0,3.2,Cash
+2023-12-05,4032,Pajamas,128.0,2.0,Cash
+2022-10-11,3988,Blouse,115.0,2.6,Credit Card
+2022-02-10,4093,Handbag,24.0,2.8,Credit Card
+2022-12-12,4057,Sunglasses,86.0,2.5,Credit Card
+2023-11-03,4000,Sun Hat,183.0,4.6,Cash
+2023-02-02,3959,Socks,156.70981818181818,2.0,Credit Card
+2022-09-12,4048,Umbrella,156.70981818181818,3.0,Credit Card
+2022-06-12,4002,Cardigan,96.0,2.9,Credit Card
+2022-09-12,4012,Gloves,170.0,3.8,Credit Card
+2023-12-08,3969,Flannel Shirt,88.0,3.2,Cash
+2023-07-07,4090,Hoodie,79.0,2.3,Cash
+2022-08-11,3983,Jeans,105.0,3.1,Cash
+2023-06-05,4070,Skirt,156.70981818181818,1.2,Cash
+2023-12-07,3970,Scarf,19.0,3.6,Cash
+2023-05-05,3958,Blouse,16.0,3.3,Cash
+2023-08-06,3969,T-Shirt,138.0,2.2,Credit Card
+2023-03-04,4053,Swimsuit,156.70981818181818,2.5,Credit Card
+2022-10-10,4020,Tie,144.0,3.2,Credit Card
+2023-01-06,4018,Polo Shirt,156.70981818181818,3.0,Cash
+2023-12-08,3980,Trousers,43.0,3.0,Credit Card
+2022-07-11,3961,Hat,19.0,2.2,Cash
+2023-06-03,4043,Backpack,185.0,2.2,Credit Card
+2022-02-12,4013,Socks,156.70981818181818,3.0,Credit Card
+2023-01-03,3999,Sunglasses,157.0,4.2,Credit Card
+2023-04-02,3984,Flip-Flops,181.0,2.3,Cash
+2022-03-11,4039,Blouse,156.70981818181818,3.0,Credit Card
+2023-06-03,4117,Bowtie,153.0,1.7,Credit Card
+2023-04-04,4116,Handbag,150.0,4.2,Cash
+2023-12-05,4010,Pajamas,46.0,4.5,Credit Card
+2023-08-03,4095,Jacket,82.0,2.9,Credit Card
+2022-12-12,4058,Sunglasses,53.0,4.1,Credit Card
+2023-12-04,4066,Hoodie,156.70981818181818,2.6,Credit Card
+2023-10-07,4011,Blazer,156.70981818181818,4.9,Cash
+2023-05-02,4048,Shorts,156.70981818181818,3.1,Credit Card
+2023-09-06,4039,Kimono,32.0,1.2,Cash
+2022-06-12,4001,Gloves,55.0,4.9,Credit Card
+2022-05-11,4037,Polo Shirt,167.0,3.8,Credit Card
+2023-02-04,4011,Gloves,146.0,4.8,Cash
+2023-11-08,3973,Pajamas,33.0,2.8,Cash
+2023-02-04,4051,Jacket,174.0,1.3,Credit Card
+2023-03-01,4062,Polo Shirt,76.0,2.9,Cash
+2023-07-06,4034,Sunglasses,110.0,2.4,Credit Card
+2023-12-04,3983,Flip-Flops,93.0,4.9,Cash
+2023-03-03,4000,Vest,156.70981818181818,1.5,Cash
+2023-09-08,4021,Flip-Flops,53.0,4.0,Cash
+2023-09-07,4118,Shorts,37.0,2.7,Cash
+2022-03-10,3991,Onesie,156.70981818181818,2.4,Credit Card
+2023-01-01,4042,Sandals,128.0,1.8,Cash
